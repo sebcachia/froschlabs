@@ -14,14 +14,14 @@
       <link>http://localhost:1313/privacy/</link>
       <pubDate>Fri, 04 Oct 2024 06:34:15 +0200</pubDate>
       <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;This policy explains how your private data is handled on froschlabs.com and any Frosch Labs products.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general&#34;&gt;General&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;We will do our best to collect the least amount of data that is needed for the products to serve you.&lt;/li&gt;&#xA;&lt;li&gt;We will not track you.&lt;/li&gt;&#xA;&lt;li&gt;We will never sell your data, and will only selectively share data with others if it is needed for our products to function.&lt;/li&gt;&#xA;&lt;li&gt;We will do our best to use reasonable security measures like encryption to keep your data safe.&lt;/li&gt;&#xA;&lt;li&gt;We will delete your personal data when you delete your account.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;iris&#34;&gt;Iris&lt;/h2&gt;&#xA;&lt;p&gt;Iris lets you share activity data collected by your health wearable with family and friends, regardless of their platform, and creates engaging ways to stay connected.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Products</title>
       <link>http://localhost:1313/products/</link>
       <pubDate>Fri, 04 Oct 2024 06:30:04 +0200</pubDate>
       <guid>http://localhost:1313/products/</guid>
-      <description>&lt;h1 id=&#34;products&#34;&gt;Products&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;products&#34;&gt;Products&lt;/h1&gt;&#xA;&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;&#xA;&lt;h4 id=&#34;iris-&#34;&gt;Iris 🚧&lt;/h4&gt;&#xA;&lt;p&gt;Iris helps you and your friends and family be more active while staying connected. Add Iris to your chat groups and it will share activity highlights, leaderboards, and fun challenges.&lt;/p&gt;&#xA;&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;&#xA;&lt;p&gt;Coming soon&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

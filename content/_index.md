@@ -9,9 +9,7 @@ title = "Home"
 
 {{< figure src="../images/frog_home.webp">}}
 
----
-
-Frosch Labs is a product micro-studio, exploring interesting problems and building things.
+Frosch Labs is a product studio, exploring interesting problems, and building things to solve them.
 
 Check out the latest [products](./products/).
 
