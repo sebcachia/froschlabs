@@ -5,9 +5,8 @@
 title = "Home"
 +++
 
-# -
+# About
 
--
+Frosch Labs is a product micro-studio, exploring interesting problems and building things.
 
----
-[Privacy Policy](./privacy/)
+Check out the latest [products](./products/).
