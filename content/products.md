@@ -6,4 +6,11 @@ menu = "main"
 
 # Products
 
--
+## Software
+Coming soon
+
+## Hardware
+Coming soon
+
+## Other
+Coming soon
