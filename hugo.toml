@@ -8,7 +8,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "Frosch Labs"
 author = "Seb Cachia"
-copyright = "Copyright © 2024, SebCachia."
+copyright = "Copyright © 2024, Frosch Labs OÜ."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
