@@ -3,7 +3,7 @@
 baseURL = "https://froschlabs.com"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = ["hugo-cloak-email", "hugo-bearblog"]
 
 # Basic metadata configuration for your blog.
 title = "Frosch Labs"

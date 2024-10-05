@@ -15,4 +15,4 @@ Check out the latest [products](./products/).
 
 ---
 
-Copyright © 2024, Frosch Labs OÜ. [Privacy Policy](./privacy/).
+Copyright © 2024, Frosch Labs OÜ. [Privacy Policy](/privacy/).

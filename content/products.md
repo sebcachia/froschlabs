@@ -8,10 +8,16 @@ menu = "main"
 
 # Products
 
+{{< figure src="../images/frog_products.webp">}}
+
 ### Software
 
-#### Iris 🚧
+#### Iris
+
 Iris helps you and your friends and family be more active while staying connected. Add Iris to your chat groups and it will share activity highlights, leaderboards, and fun challenges.
 
-### Hardware
-Coming soon
+Iris is launching in Q1 2025, [sign up here](https://forms.gle/tX2etwoGL3HCVN1w5) for early access.
+
+---
+
+Copyright © 2024, Frosch Labs OÜ. [Privacy Policy](/privacy/).

@@ -7,7 +7,14 @@ draft = false
 ---
 # Privacy Policy
 
+{{< figure src="../images/frog_privacy.webp">}}
+
+
 This policy explains how your private data is handled on froschlabs.com and any Frosch Labs products.
+
+Frosch Labs OÜ is a company registered in Estonia, Europe. 
+
+For any questions contact {{< cloakemail "mail@froschlabs.com" >}}
 
 ## General
 
@@ -34,3 +41,7 @@ In addition to the General notes on your privacy, the following extra points are
 ### Data sharing
 - With Your Group: Your activity data is shared with members of your group as part of the challenges and leaderboards.
 - Third-Party Services: We use Twilio to send messages to your group. Data from your fitness platforms (Garmin, Fitbit) is collected to display your activities in the app.
+
+---
+
+Copyright © 2024, Frosch Labs OÜ. [Privacy Policy](/privacy/).
