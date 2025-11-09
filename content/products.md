@@ -16,7 +16,7 @@ menu = "main"
 
 Iris helps you and your friends and family be more active while staying connected. Add Iris to your chat groups and it will share activity highlights, leaderboards, and fun challenges.
 
-Iris is launching in Q1 2025, [sign up here](https://forms.gle/tX2etwoGL3HCVN1w5) for early access.
+Iris is launching in Q1 2026, [sign up here](https://forms.gle/tX2etwoGL3HCVN1w5) for early access.
 
 ---
 
